@@ -1,2 +1,2 @@
-# python
-Python scripts from Udemy
+# Python
+Python scripts from various Udemy courses
